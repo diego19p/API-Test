@@ -1,0 +1,5 @@
+backend\rickandmorty\api\location\LocationAPI.class
+backend\rickandmorty\api\character\CharacterAPI.class
+backend\rickandmorty\api\base\BaseAPI.class
+backend\rickandmorty\utils\RestAssuredUtils.class
+backend\rickandmorty\api\episode\EpisodeAPI.class

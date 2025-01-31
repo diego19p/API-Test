@@ -1,0 +1,4 @@
+backend\rickandmorty\character\CharacterEndpointTest.class
+backend\rickandmorty\base\BaseTest.class
+backend\rickandmorty\episode\EpisodeEndpointTest.class
+backend\rickandmorty\location\LocationEndpointTest.class
